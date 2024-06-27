@@ -33,8 +33,6 @@ MaMu1Sc1Ver85jFtmLCoeqy8E+X0yVh02cCxSMEzCV+ACRCdjJw6
 
 
 
-
 # Web App
 Resource group:
-
-Name: testdockerdan.azurewebsites.net
+ 
