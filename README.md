@@ -3,11 +3,11 @@
 
 # Run from terminal
 
-docker build -t testdockerdaniel.azurecr.io/studentperformance:latest .
+docker build -t testdockerdaniel.azurecr.io/studentpredict:latest .
 
 docker login testdockerdaniel.azurecr.io
 
-docker push  testdockerdaniel.azurecr.io/studentperformance:latest
+docker push  testdockerdaniel.azurecr.io/studentpredict:latest
 
 
 
