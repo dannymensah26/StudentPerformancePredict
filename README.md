@@ -3,11 +3,11 @@
 
 ### Overview
 
-A simple web application which uses Machine Learning algorithm to predict the heart condition of a person by providing some inputs about the person health like age, gender, blood pressure, cholesterol level etc built using streamlit and deployed on Streamlit.
+A simple web application that employs a Machine Learning algorithm to predict the performance of a student based on inputs such as race/ethnicity, parental level of education, lunch type, test preparation course, reading score, and so on, created with Streamlit and deployed on the Streamlit app.
 
 ### Motivation
 
-As being a Data and ML enthusiast I have tried many different projects related to the subject but what I have realised is that Deploying your machine learning model is a key aspect of every ML and Data science project. Everything thing I had studied or been taught so far in my Data science and ML journey had mostly focused on defining problem statement followed by Data collection and preparation, model building and evaluation process which is of course important for every ML/DS project but what if I want different people to interact with my models, how can I make my model available for end-users? I can't send them jupyter notebooks right!. That's why I wanted to try my hands on complete end-to-end machine learning project.
+Enthusiastic in data and machine learning, I have worked on several projects mostly emphasizing data preparation, model construction, issue specification, and assessment.While these are necessary procedures, I discovered that deploying models is critical for allowing others to engage with them. Sharing Jupyter notebooks is impractical for end users, so I wanted to investigate distributing models as part of an end-to-end ML project, making them more available to a wider audience.
 
     To View the Deployed Application, click on the link given below : Heart Disease Prediction App - https://heartdiseasepredict-nz8hrvjjkwcswccqmtm4yj.streamlit.app/
 
