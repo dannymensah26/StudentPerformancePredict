@@ -51,7 +51,8 @@ This Project is mainly divided into two parts:
 
 
 ### Run on Local Host
-    To Run the Application
+ To run the application use:
+ 
     stream run app.py
 
 
