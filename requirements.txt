@@ -10,4 +10,5 @@ Flask
 dill
 flask_cors
 lime
+streamlit
 #-e .
