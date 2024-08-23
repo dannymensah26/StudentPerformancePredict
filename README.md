@@ -45,19 +45,14 @@ This Project is mainly divided into two parts:
     pip install -r requirements.txt 
 
 
+### Clone Repository  
+    To clone the repository
+    git clone https://github.com/dannymensah26/StudentPerformancePredict.git
 
-
-
-### Clone Repository
-To clone the repository
-
-git clone https://github.com/dannymensah26/StudentPerformancePredict.git
 
 ### Run on Local Host
-
-To Run the Application
-
-stream run app.py
+    To Run the Application
+    stream run app.py
 
 
 ### Deployment on Streamlit
