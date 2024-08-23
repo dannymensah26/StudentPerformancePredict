@@ -76,13 +76,9 @@ https://github.com/user-attachments/assets/8ced7883-b7cd-49cf-814c-83f8108e9abd
     Improve model performance using Adaboost or XGBoost Gradient Algorithm
     Add more better styling to the user interface.
 
-Some Useful Resources
+### Some Useful Resources
 
     Streamlit Quickstart Documentation : https://docs.streamlit.io/
-
-
-### Demo
-
 
     
  
