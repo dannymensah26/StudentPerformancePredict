@@ -13,10 +13,11 @@ Enthusiastic in data and machine learning, I have worked on several projects mos
 
     To get the Code for Exploratory data analysis/visualisations, different algorithms used and the model evaluation, click on the link mentioned below : Link of jupyter notebook - 
 EDA:
-https://github.com/dannymensah26/HeartDiseasePredict/blob/main/notebook/EDA.ipynb
+https://github.com/dannymensah26/StudentPerformancePredict/blob/main/notebook/EDA%20STUDENT%20PERFORMANCE%20.ipynb
+
 
 Model Building:
-https://github.com/dannymensah26/HeartDiseasePredict/blob/main/notebook/ModelBuilding.ipynb
+https://github.com/dannymensah26/StudentPerformancePredict/blob/main/notebook/MODEL%20TRAINING.ipynb
 
 
 
