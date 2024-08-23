@@ -1,41 +1,3 @@
-# STUDENT PERFORMANCE PREDICTION WEB APP
-
-# Azure Deployment
-1. Build Docker Image 
-2. Container Registry
-3. Azure Web app with container
-4. Configured the GitHub deployment center
-
-
-
-
-# Run from terminal
-
-docker build -t testdockerdaniel.azurecr.io/studentpredict:latest .
-
-docker login testdockerdaniel.azurecr.io
-
-docker push  testdockerdaniel.azurecr.io/studentpredict:latest
-
-
-# Docker Account
-resource group: testdockerdaniel
-
-registry name: testdockerdaniel
-
-
-Login server: testdockerdaniel.azurecr.io
-
-password: JAh7kD7ulKPt5xhriUtuuBqslkiis2JrszOnN8p1/s+ACRDrNq14
-
-
-MaMu1Sc1Ver85jFtmLCoeqy8E+X0yVh02cCxSMEzCV+ACRCdjJw6
-
-
-# Web App
-Resource group:
-
-
 
 ## STUDENT PERFORMANCE PREDICTION DEPLOYMENT ON STREAMLIT APP
 
@@ -113,5 +75,12 @@ Some Useful Resources
 https://github.com/user-attachments/assets/8ced7883-b7cd-49cf-814c-83f8108e9abd
 
 ### Build a Docker Container for the ML Model
- Create a Streamlit application to interact with the model.
- Deploy it on a Docker container.
+    Build the docker image docker build -t studentperformancepredict
+    Run the app docker run -d -p 8501:8501 studentperformancepredict
+    Deploy it on a Docker container.
+    View the app within Docker Desktop docker image studentperformancepredict
+    
+ 
+ 
+
+ 
