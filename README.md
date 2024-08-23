@@ -9,17 +9,20 @@ A simple web application that employs a Machine Learning algorithm to predict th
 
 Enthusiastic in data and machine learning, I have worked on several projects mostly emphasizing data preparation, model construction, issue specification, and assessment.While these are necessary procedures, I discovered that deploying models is critical for allowing others to engage with them. Sharing Jupyter notebooks is impractical for end users, so I wanted to investigate distributing models as part of an end-to-end ML project, making them more available to a wider audience.
 
-    To View the Deployed Application, click on the link given below : Heart Disease Prediction App - https://heartdiseasepredict-nz8hrvjjkwcswccqmtm4yj.streamlit.app/
+### View Deployed Application
+ To View the Deployed Application, click on the link given below :
 
-    To get the Code for Exploratory data analysis/visualisations, different algorithms used and the model evaluation, click on the link mentioned below : 
-#### Link of jupyter notebook:
-EDA:
-https://github.com/dannymensah26/StudentPerformancePredict/blob/main/notebook/EDA%20STUDENT%20PERFORMANCE%20.ipynb
+    Heart Disease Prediction App - https://heartdiseasepredict-nz8hrvjjkwcswccqmtm4yj.streamlit.app/
 
 
-Model Building:
-https://github.com/dannymensah26/StudentPerformancePredict/blob/main/notebook/MODEL%20TRAINING.ipynb
+### Link of jupyter notebook:
+ To View the link to jupyter notebooks, click on the link given below :
 
+    Heart Disease Prediction App - https://heartdiseasepredict-nz8hrvjjkwcswccqmtm4yj.streamlit.app/
+    EDA:https://github.com/dannymensah26/StudentPerformancePredict/blob/main/notebook/EDA%20STUDENT%20PERFORMANCE%20.ipynb
+    
+    Model Building:https://github.com/dannymensah26/StudentPerformancePredict/blob/main/notebook/MODEL%20TRAINING.ipynb
+    
 
 #### Technical Aspect
 
