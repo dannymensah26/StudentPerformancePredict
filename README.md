@@ -30,7 +30,7 @@ This Project is mainly divided into two parts:
     Building a Docker Container for the ML Model
     Deploying the model on Streamlit
 
-### About the repository Structure :
+### About the repository Structure
 
     Project consist app.py script which is used to run the application and is engine of this app. 
     contians API that gets input from the user and computes a predicted value based on the model.
@@ -40,9 +40,13 @@ This Project is mainly divided into two parts:
 
 ### Installation
 
-The Code is written in Python 3.9. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
+    The Code is written in Python 3.9. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip.      To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
-pip install -r requirements.txt 
+    pip install -r requirements.txt 
+
+
+
+
 
 ### Clone Repository
 To clone the repository
