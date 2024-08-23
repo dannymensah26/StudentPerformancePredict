@@ -19,10 +19,6 @@ Model Building:
 https://github.com/dannymensah26/HeartDiseasePredict/blob/main/notebook/ModelBuilding.ipynb
 
 
-### A Demo of the Web App :
-
-Heart_disease
-
 
 #### Technical Aspect
 
@@ -60,6 +56,15 @@ Install Streamlit as this makes it easy to create and manage your Streamlit apps
 
 next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
 
+### Build a Docker Container for the ML Model
+    Build the docker image docker build -t studentperformancepredict
+    Run the app docker run -d -p 8501:8501 studentperformancepredict
+    Deploy it on a Docker container.
+    View the app within Docker Desktop docker image studentperformancepredict
+
+### A Demo of the Web App :
+https://github.com/user-attachments/assets/8ced7883-b7cd-49cf-814c-83f8108e9abd
+
 
 ### Future work
 
@@ -72,13 +77,8 @@ Some Useful Resources
 
 
 ### Demo
-https://github.com/user-attachments/assets/8ced7883-b7cd-49cf-814c-83f8108e9abd
 
-### Build a Docker Container for the ML Model
-    Build the docker image docker build -t studentperformancepredict
-    Run the app docker run -d -p 8501:8501 studentperformancepredict
-    Deploy it on a Docker container.
-    View the app within Docker Desktop docker image studentperformancepredict
+
     
  
  
