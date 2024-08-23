@@ -39,14 +39,14 @@ This Project is mainly divided into two parts:
     (iv) static folder contains file style.css which adds some styling and enhance the look of the application.
 
 ### Installation
-
-    The Code is written in Python 3.9. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip.      To install the required packages and libraries, run this command in the project directory after cloning the repository:
+   The Code is written in Python 3.9. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip.      To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
     pip install -r requirements.txt 
 
 
 ### Clone Repository  
-    To clone the repository
+To clone the repository use:
+
     git clone https://github.com/dannymensah26/StudentPerformancePredict.git
 
 
