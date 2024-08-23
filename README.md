@@ -11,7 +11,8 @@ Enthusiastic in data and machine learning, I have worked on several projects mos
 
     To View the Deployed Application, click on the link given below : Heart Disease Prediction App - https://heartdiseasepredict-nz8hrvjjkwcswccqmtm4yj.streamlit.app/
 
-    To get the Code for Exploratory data analysis/visualisations, different algorithms used and the model evaluation, click on the link mentioned below : Link of jupyter notebook - 
+    To get the Code for Exploratory data analysis/visualisations, different algorithms used and the model evaluation, click on the link mentioned below : 
+### Link of jupyter notebook:
 EDA:
 https://github.com/dannymensah26/StudentPerformancePredict/blob/main/notebook/EDA%20STUDENT%20PERFORMANCE%20.ipynb
 
