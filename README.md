@@ -28,6 +28,8 @@ This Project is mainly divided into two parts:
 
     Exploring the dataset and traning the model using Sklearn.
     Building and hosting a streamlit App on Streamlit
+    Building a Docker Container for the ML Model
+    Deploying the model on Streamlit
 
 ### About the repository Structure :
 
@@ -46,17 +48,17 @@ To clone the repository
 
 git clone https://github.com/dannymensah26/HeartDiseasePredict.git
 
-### Run
+### Run on Local Host
 
 To Run the Application
 
 stream run app.py
 
-### Deployement on Streamlit
 
-Install Streamlit as this makes it easy to create and manage your Streamlit apps directly from the terminal. You can download it from here.
+### Deployment on Streamlit
+    Install Streamlit as this makes it easy to create and manage your Streamlit apps directly from the terminal.
+    Next step would be to follow the instruction given on Streamlit Documentation to deploy a web app.
 
-next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
 
 ### Build a Docker Container for the ML Model
     Build the docker image docker build -t studentperformancepredict
