@@ -44,9 +44,10 @@ The Code is written in Python 3.9. If you don't have Python installed you can fi
 
 pip install -r requirements.txt 
 
+### Clone Repository
 To clone the repository
 
-git clone https://github.com/dannymensah26/HeartDiseasePredict.git
+git clone https://github.com/dannymensah26/StudentPerformancePredict.git
 
 ### Run on Local Host
 
