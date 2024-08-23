@@ -1,4 +1,4 @@
-# END TO END MACHINE LEARNING AND OPERATIONS (MLOPS) PROJECT FOR PREDICTING STUDENT PERFORMANCE
+# STUDENT PERFORMANCE PREDICTION WEB APP
 
 # Azure Deployment
 1. Build Docker Image 
@@ -32,7 +32,10 @@ password: JAh7kD7ulKPt5xhriUtuuBqslkiis2JrszOnN8p1/s+ACRDrNq14
 MaMu1Sc1Ver85jFtmLCoeqy8E+X0yVh02cCxSMEzCV+ACRCdjJw6
 
 
-
 # Web App
 Resource group:
+
+
+### Demo
+
  
