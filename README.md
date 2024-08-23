@@ -11,14 +11,16 @@ Enthusiastic in data and machine learning, I have worked on several projects mos
 
 ### View Deployed Application
  To View the Deployed Application, click on the link given below :
+ 
 
-    Heart Disease Prediction App - https://heartdiseasepredict-nz8hrvjjkwcswccqmtm4yj.streamlit.app/
+    Student Performance Prediction App - https://studentperformpred.streamlit.app/
+
+    Network URL: http://192.168.2.23:8501
 
 
 ### Link of jupyter notebook:
  To View the link to jupyter notebooks, click on the link given below :
 
-    Heart Disease Prediction App - https://heartdiseasepredict-nz8hrvjjkwcswccqmtm4yj.streamlit.app/
     EDA:https://github.com/dannymensah26/StudentPerformancePredict/blob/main/notebook/EDA%20STUDENT%20PERFORMANCE%20.ipynb
     
     Model Building:https://github.com/dannymensah26/StudentPerformancePredict/blob/main/notebook/MODEL%20TRAINING.ipynb
